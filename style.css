@@ -175,6 +175,8 @@
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding: 10px; /* Adjust padding for better mobile view */
   }
 
@@ -183,7 +185,7 @@
   }
 
   .search-bar {
-    width: 377px; /* Full width for search bar on mobile */
+    width: 295px; /* Full width for search bar on mobile */
     margin-top: 10px;
   }
 
