@@ -55,4 +55,3 @@ You can access the live version of the application here:
 
 ## Credits
 - YouTube API provided by [freeapi.app](https://freeapi.app)
-- Icons and design inspiration from YouTube
