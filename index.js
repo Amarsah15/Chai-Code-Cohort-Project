@@ -8,7 +8,7 @@ const loader = document.querySelector('.loader');
 const searchInput = document.querySelector(".search-bar");
 
 // The URL to fetch the video data from the API
-const url = 'https://api.freeapi.app/api/v1/public/youtube/videos?page=1&limit=10&query=javascript&sortBy=keep%2520one%253A%2520mostLiked%2520%257C%2520mostViewed%2520%257C%2520latest%2520%257C%2520oldest';
+const url = 'https://api.freeapi.app/api/v1/public/youtube/videos?page=1&limit=157&query=javascript&sortBy=keep%2520one%253A%2520mostLiked%2520%257C%2520mostViewed%2520%257C%2520latest%2520%257C%2520oldest';
 
 // Initialize an empty array to store fetched video data (for filtering later)
 let fetched_videos = [];
